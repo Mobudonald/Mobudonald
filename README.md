@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Jerry Ian Cellona</h1>
+<h1 align="center">Hi, Im Jerry Ian Cellona</h1>
 <h3 align="center">Jupiter can't keep me from you</h3>
 
 <h3 align="left">Connect with me:</h3>
